@@ -1,2 +1,2 @@
 # JavaScript
-I repo for JS 
+A repo for JS 
